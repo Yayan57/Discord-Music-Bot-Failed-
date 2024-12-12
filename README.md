@@ -1,2 +1,4 @@
 # Discord-Music-Bot-Failed-
-Failed Discord Music bot project. 
+This is a discord music bot that I made that would take your playlist from youtube music (wanted to add spotify and apple music later), input the playlist data into a 3rd party youtube player and play the playlist in your discord voice call. 
+It could do all of that but actually play the music in the vc, and I tried everything, I tried all the available 3rd party youtube APIs (youtube only has a data api but nothing to play the videos or audio through), I looked into other music apps APIs and tried making my own youtube web scrapper to get the audio and none of it worked, at least not for free.
+So this is me throwing in the towel and moving on to a project that I can actually get to work, but I worked so much on it that I felt like I should put it up somewhere so all my work was not for nothing.
